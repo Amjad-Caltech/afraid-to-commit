@@ -5,8 +5,6 @@ Don't be afraid to commit
 A hands-on workshop for Python/Django developers who would like to contribute
 more to the projects they use, but need more grounding in some of the tools
 required.
-
-What's in it for you
 ====================
 
 As well as helping to put you in a position to commit successfully to
